@@ -1,6 +1,6 @@
 ## Ana Ordonez
 
-Climate data specialist and python developer.
+Climate data specialist and Python developer.
 
 ### Contributions:
 - [climakitae](https://github.com/cal-adapt/climakitae): Python toolkit for the Cal-Adapt Analytics Engine
